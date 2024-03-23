@@ -45,4 +45,3 @@ This scenario outlines the steps to search for different products on the Amazon 
 
 ---
 
-This documentation provides a clear outline of the scenario along with the steps involved in executing it. Each step is explained in detail to ensure clarity and understanding. Additionally, examples of different products are provided to demonstrate the flexibility of the scenario.
