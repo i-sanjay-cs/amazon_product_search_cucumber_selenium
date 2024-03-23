@@ -17,13 +17,13 @@ This scenario outlines the steps to search for different products on the Amazon 
 3. **Then** I should see Sign In Page
     - Verifies if the sign-in page is successfully displayed.
 
-4. **When** I enter username as "8268703019"
+4. **When** I enter username as "username"
     - Enters the username in the provided field.
 
 5. **When** I Click on Continue button
     - Clicks on the continue button to proceed with the login process.
 
-6. **When** I enter password as "Sanjay@8268"
+6. **When** I enter password as "password"
     - Enters the password in the provided field.
 
 7. **When** click on login button
