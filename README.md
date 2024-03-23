@@ -1,4 +1,3 @@
-Certainly! Below is a template for documenting the scenario along with the step definitions provided earlier:
 
 ---
 
